@@ -53,10 +53,8 @@
 Formmed at **UnB - Universidade de Brasília**<br/>
 
 </p>
-<hr>
 
-[![card](https://github-readme-stats.vercel.app/api?username=yukioz&theme=Tokyonight)](https://github.com/yukioz/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukioz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yukioz](https://github-readme-stats.vercel.app/api/top-langs/?username=yukioz&hide=html&layout=compact&theme=Tokyonight)](https://github.com/yukioz/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukioz&layout=compact)
 
